@@ -1,0 +1,38 @@
+.pd-card {
+  width: 100%;
+  background: #ffffff;
+  box-shadow: 0px 22px 40px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  padding: 25px;
+}
+.pd-card img {
+  width: 417px;
+  height: 254px;
+}
+.pd-card h2 {
+  font-weight: 600;
+  font-size: 22px;
+}
+.pd-card p {
+  font-weight: 400;
+  font-size: 16px;
+  margin: 10px 0px;
+}
+.price {
+  font-weight: 600;
+  font-size: 18px;
+  color: #07ffd2;
+}
+.add-btn {
+  border: 2px solid #38ff4c;
+  background: none;
+  margin: 0px 10px;
+  padding: 10px;
+}
+.buy-btn {
+  background: #38ff4c;
+  outline: 0;
+  border: 0;
+  padding: 10px;
+}

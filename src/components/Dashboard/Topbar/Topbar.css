@@ -1,0 +1,9 @@
+.topbar-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon{
+    background-color: #53FF02;
+}
