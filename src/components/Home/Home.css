@@ -1,0 +1,92 @@
+.pd-card {
+  width: 100%;
+  background: #ffffff;
+  box-shadow: 0px 22px 40px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  padding: 28px 0px;
+}
+.pd-card img {
+  width: 417px;
+  height: 254px;
+}
+.pd-card h2 {
+  font-weight: 600;
+  font-size: 22px;
+}
+.description {
+  font-weight: 400;
+  font-size: 16px;
+  margin: 10px 0px;
+}
+.ratings {
+  display: flex;
+  justify-content: start;
+}
+.price {
+  font-weight: 600;
+  font-size: 18px;
+  color: #07ffd2;
+  margin-bottom: 10px;
+}
+.greent-btn {
+  width: 20px;
+  height: 20px;
+  border: 0;
+  outline: 0;
+  background: #66ff1e;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.blue-btn {
+  width: 20px;
+  height: 20px;
+  border: 0;
+  outline: 0;
+  background: #1e78ff;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.paste-btn {
+  width: 20px;
+  height: 20px;
+  border: 0;
+  outline: 0;
+  background: #07ffd2;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.purple-btn {
+  width: 20px;
+  height: 20px;
+  border: 0;
+  outline: 0;
+  background: #8e3785;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.btns {
+  display: flex;
+  justify-content: left;
+}
+.wishlist-btn {
+  background: none;
+  border: 2px solid #38ff4c;
+  border-radius: 10px;
+  color: #38ff4c;
+  padding: 5px;
+}
+.add-btn {
+  border: 2px solid #38ff4c;
+  border-radius: 10px;
+  background: none;
+  margin: 0px 10px;
+  padding: 10px;
+}
+.buy-btn {
+  background: #38ff4c;
+  border-radius: 10px;
+  outline: 0;
+  border: 0;
+  padding: 10px;
+}

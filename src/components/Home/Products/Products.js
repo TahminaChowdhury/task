@@ -2,7 +2,7 @@ import { Grid } from '@mui/material';
 import { Box } from '@mui/system';
 import React from 'react';
 import './Products.css';
-import img from '../../../../images/g835SLOHDG-F-1-removebg-preview 1.png';
+import img from '../../../images/g835SLOHDG-F-1-removebg-preview 1.png';
 
 const Products = () => {
   return (
